@@ -125,3 +125,4 @@ var startGame = function() {
       window.alert("Thank you for playing Robot Gladiators! Come back soon!");
     }
   }
+startGame();
